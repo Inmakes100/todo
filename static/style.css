@@ -1,0 +1,16 @@
+.banner{
+    background-color: blueviolet;
+    width :1500px;
+    height:200px;
+    margin-bottom:50px;
+
+}
+
+
+.banner-text{
+
+top:65px;
+left:600px;
+position:absolute;
+transform:transform;
+}
